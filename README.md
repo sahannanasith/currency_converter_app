@@ -54,8 +54,8 @@ The result will be displayed instantly based on real-time exchange rates.
 Contributing
 Feel free to fork this repository and submit pull requests. If you have suggestions or improvements, please create an issue first so we can discuss the changes.
 
-![Image](https://github.com/user-attachments/assets/fdadd136-3efc-4af1-bad4-3f677f7a01d9)
-
 ![Image](https://github.com/user-attachments/assets/0ebfda83-3375-4bd6-ac4e-58b70673487f)
+
+![Image](https://github.com/user-attachments/assets/fdadd136-3efc-4af1-bad4-3f677f7a01d9)
 
 ![Image](https://github.com/user-attachments/assets/72b1d5a8-cae5-4445-aa4a-ca2895fbb03f)
